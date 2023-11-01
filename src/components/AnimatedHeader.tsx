@@ -88,7 +88,7 @@ export const AnimatedHeader = ({
 
 const styles = StyleSheet.create({
   imgContainer: {
-    alignItems: 'center',
+    // alignItems: 'center',
     overflow: 'hidden',
   },
 });
